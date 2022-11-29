@@ -1,0 +1,6 @@
+varibale name
+file name
+class name must be descrpite 
+typo issue
+avoid unwanted code
+use camel case for variable 
